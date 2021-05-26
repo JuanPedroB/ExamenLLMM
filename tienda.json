@@ -1,0 +1,62 @@
+{
+	"Tienda":{
+		"nombre":"Sport shop",
+		"ciudad":"Almendralejo",
+		"persona":"Jony Melavo",
+		"correo":"eseJony@gmail.com",
+		"camisetas":[
+			{
+				"tipo":"Manga corta",
+				"marca":"Mike",
+				"talla":"S, M y L"
+			},
+			{
+				"tipo":"Manga larga",
+				"marca":"Addidas",
+				"talla":"M y L"
+			},
+			{
+				"tipo":"Sin mangas",
+				"marca":"Gordan",
+				"talla":"M, L y XL"
+			}
+		],
+
+		"pantalones":[
+			{
+				"tipo":"Cortos",
+				"marca":"Gordan",
+				"talla":"S, M y XL"
+			},
+			{
+				"tipo":"Cortos",
+				"marca":"Mike",
+				"talla":"S y M"
+			},
+			{
+				"tipo":"Largos",
+				"marca":"Addidas",
+				"talla":"M y XL"
+			}
+		],
+
+		"zapatillas":[
+			{
+				"tipo":"Baloncesto",
+				"marca":"Gordan",
+				"talla":"41, 43, 45"
+			},
+			{
+				"tipo":"Futbol",
+				"marca":"Messirve",
+				"talla":"40, 41, 42"
+			},
+			{
+				"tipo":"Baloncesto",
+				"marca":"Mike",
+				"talla":"44, 45, 46"
+			}
+		]
+	}
+
+}
